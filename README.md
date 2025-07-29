@@ -41,10 +41,11 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 - The [del Pezzo surface of degree 4](https://arxiv.org/pdf/1312.6734) is a smooth surface defined by the intersection of two quadrics over an algebraically closed field $$k$$ of characteristic different from 2.
 
 $$
-X \text{ is an algebraic variety determined by two quadratic equations , }  X \subset \mathbb{RP}^4 , X = V(f_1, f_2), 
+X \text{ is an algebraic variety determined by two quadratic equations, }  X \subset \mathbb{RP}^4, X = V(f_1, f_2), 
 $$
 $$
 \text{where } f_1 , f_2 \in H^0(\mathbb{P}^4, \mathcal{O}_{\mathbb{P}^4}(2)) \quad \text{or} \quad f_1 , f_2 \in \mathbb{R}[x_0, x_1, x_2, x_3, x_4]_2.
 $$
 
--
+- We can see that there are many situtaions
+- 
