@@ -49,11 +49,11 @@ $$
 
 - We observe that although the number of real lines listed in the table can partially distinguish the topological types of del Pezzo surfaces, it does not provide a sufficient criterion for determining their complete topological structure. To more accurately identify the specific algebraic structure, we can enumerate the hyperplane equations corresponding to all real lines and further analyze their intersection relations. Specifically, each real line is determined by the intersection of two hyperplanes. By solving the system defined by these two hyperplanes, we obtain the real line, and then by examining the intersection relations among all such real lines, we can determine their mutual intersections.
 
-We construct a matrix $$\mathbf{A}$$ that encodes the intersection information between the real lines.
+  We construct a matrix $$\mathbf{A}$$ that encodes the intersection information between the real lines.
 
-Further, we compute the rank of an extended matrix $$\mathbf{B}$$ derived from $$\mathbf{A}$$. According to Francesco Russo's work *The antibirational involutions of the plane and the classification of real del Pezzo surfaces* (see Corollary 3.3), this rank corresponds exactly to the rank of the real Néron-Severi group, i.e., the Picard number $$\rho(X_{\mathbb{R}})$$. Through this computation, we can more precisely determine the corresponding algebraic structure.
+  Further, we compute the rank of an extended matrix $$\mathbf{B}$$ derived from $$\mathbf{A}$$. According to Francesco Russo's work *The antibirational involutions of the plane and the classification of real del Pezzo surfaces* (see Corollary 3.3), this rank corresponds exactly to the rank of the real Néron-Severi group, i.e., the Picard number $$\rho(X_{\mathbb{R}})$$. Through this computation, we can more precisely determine the corresponding algebraic structure.
 
-The structure of the matrix $$\mathbf{B}$$ is as follows:
+  The structure of the matrix $$\mathbf{B}$$ is as follows:
 
 $$
 \mathbf{B} = \begin{bmatrix}
@@ -64,13 +64,13 @@ $$
 \end{bmatrix}
 $$
 
-where
+  where
 
 $$
 \mathbf{A} = (a_{ij})_{1 \leq i,j \leq r} \text{ and } r \text{ is the number of real lines }L_1, L_2, \ldots, L_r.
 $$
 
-Specifically,
+  Specifically,
 
 $$
 \begin{cases}
@@ -79,4 +79,4 @@ a_{ij} = |L_i \cap L_j|, \quad i \neq j
 \end{cases}
 $$
 
-Here, $$|L_i \cap L_j|$$ denotes the number of intersection points between the real lines $$L_i$$ and $$L_j$$ $$(i \neq j)$$.
+  Here, $$|L_i \cap L_j|$$ denotes the number of intersection points between the real lines $$L_i$$ and $$L_j$$ $$(i \neq j)$$.
