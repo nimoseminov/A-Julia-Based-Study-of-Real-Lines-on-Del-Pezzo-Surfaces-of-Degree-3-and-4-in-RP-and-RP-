@@ -83,7 +83,7 @@ $$
 
 - Due to limitations in floating-point precision, it is currently not possible to accurately determine the intersection relations between real lines on cubic del Pezzo surfaces using numerical methods. Therefore, the corresponding intersection-checking code is **not** publicly available. I only provide code for:
 
-  1. counting the number of real lines, and  
+  1. counting the number of real lines
   2. outputting their approximate equations  
   (note: these equations are always approximations due to numerical errors).
 
@@ -91,7 +91,7 @@ $$
 
   At this stage, the implementation only supports:
 
-  1. identifying the number of real lines, and  
+  1. identifying the number of real lines
   2. **does not** yet support outputting their approximate equations. 
 
 - For further details, please refer to the [project page](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia) and the associated document: [Topological Classification (PDF)](https://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf).
