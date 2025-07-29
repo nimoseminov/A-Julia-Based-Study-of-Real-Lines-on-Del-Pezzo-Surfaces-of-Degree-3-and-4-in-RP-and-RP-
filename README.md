@@ -38,8 +38,7 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 
 ## Examples
 In the code for [*del Pezzo surface of degree 3.jl*](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4/blob/main/del%20Pezzo%20surface%20of%20degree%203.jl), I used the example polynomial:
-            621*x^3+2619*x^2*y-1800*x*y^2-3040*y^3+315*x^2*z+618*x*y*z-1212*y^2*z+174*x*z^2+172*y*z^2+1152*x^2*w-24*x*y*w-4328*y^2*w+306*x*z*w-650*y*z*w+38*z^2*w+51*x*w^2-1907*y*w^2-97*z*w^2
-            
+```621*x^3+2619*x^2*y-1800*x*y^2-3040*y^3+315*x^2*z+618*x*y*z-1212*y^2*z+174*x*z^2+172*y*z^2+1152*x^2*w-24*x*y*w-4328*y^2*w+306*x*z*w-650*y*z*w+38*z^2*w+51*x*w^2-1907*y*w^2-97*z*w^2```
 
 
 ## Remark
