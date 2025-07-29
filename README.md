@@ -16,6 +16,6 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 | $$\mathbb{P}_{\mathbb{R}^2(4,2)}$$ | 6 | #5 $$\mathbb{RP}^2$$ |15 |
 | $$\mathbb{P}_{\mathbb{R}^2(2,4)}$$ | 5 | #3 $$\mathbb{RP}^2$$ |7 |
 | $$\mathbb{P}_{\mathbb{R}^2(0,6)}$$ | 4 | # $$\mathbb{RP}^2$$ |3 |
-| $$\mathbb{D}_{4}(1,0)}$$ | 3 | $$\mathbb{RP}^2 \scup S^2$$ |3 |
+| $$\mathbb{D}_{4}(1,0)}$$ | 3 | $$\mathbb{RP}^2 \sqcup S^2$$ |3 |
 
 
