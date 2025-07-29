@@ -37,7 +37,7 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 | $$\mathbb{D}_{4}$$ | 2 | $$S^2 \sqcup S^2$$ |0 |
 
 ## Remark
-- We need to be careful with the definition of del Pezzo surface of degree 3 and degree 4, the del Pezzo surfaces of degree 3 are smooth cubic surfaces in $$\mathbb{RP}^3$$, but the del Pezzo surfaces are not quartic surfaces in $$\mathbb{RP}^4$$
+- It is important to be precise about the definitions of del Pezzo surfaces of degrees 3 and 4. Del Pezzo surfaces of degree 3 are smooth cubic surfaces in $\mathbb{RP}^3$. In contrast, smooth quartic surfaces in $\mathbb{RP}^4$ are **not** del Pezzo surfaces, but rather **K3 surfaces**, which in algebraic geometry are smooth projective surfaces with a trivial canonical bundle.
 - The [del Pezzo surface of degree 4](https://arxiv.org/pdf/1312.6734) is a smooth surface defined by the intersection of two quadrics over an algebraically closed field $$k$$ of characteristic different from 2.
 
 $$
@@ -47,5 +47,32 @@ $$
 \text{where } f_1 , f_2 \in H^0(\mathbb{P}^4, \mathcal{O}_{\mathbb{P}^4}(2)) \quad \text{or} \quad f_1 , f_2 \in \mathbb{R}[x_0, x_1, x_2, x_3, x_4]_2.
 $$
 
-- We can see that there are many situtaions
-- 
+-We observe that although the number of real lines listed in the table can partially distinguish the topological types of del Pezzo surfaces, it does not provide a sufficient criterion for determining their complete topological structure. To more accurately identify the specific algebraic structure, we can enumerate the hyperplane equations corresponding to all real lines and further analyze their intersection relations. Specifically, each real line is determined by the intersection of two hyperplanes. By solving the system defined by these two hyperplanes, we obtain the real line, and then by examining the intersection relations among all such real lines, we can determine their mutual intersections.
+
+We construct a matrix \(\mathbf{A}\) that encodes the intersection information between the real lines.
+
+Further, we compute the rank of an extended matrix \(\mathbf{B}\) derived from \(\mathbf{A}\). According to Francesco Russo's work *The antibirational involutions of the plane and the classification of real del Pezzo surfaces* (see Corollary 3.3), this rank corresponds exactly to the rank of the real Néron-Severi group, i.e., the Picard number \(\rho(X_{\mathbb{R}})\). Through this computation, we can more precisely determine the corresponding algebraic structure.
+
+The structure of the matrix \(\mathbf{B}\) is as follows:
+
+\[
+\mathbf{B} = \begin{bmatrix}
+3 & 1 & 1 & 1 \\
+1 &   &   &   \\
+1 &   & \mathbf{A} & \\
+1 &   &   &  
+\end{bmatrix}
+\]
+
+where \(\mathbf{A} = (a_{ij})_{1 \leq i,j \leq r}\) and \(r\) is the number of real lines \(L_1, L_2, \ldots, L_r\).
+
+Specifically,
+
+\[
+\begin{cases}
+a_{ii} = -1 \\
+a_{ij} = |L_i \cap L_j|, \quad i \neq j
+\end{cases}
+\]
+
+Here, \(|L_i \cap L_j|\) denotes the number of intersection points between the real lines \(L_i\) and \(L_j\).
