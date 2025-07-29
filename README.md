@@ -12,7 +12,10 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 
 | $$X_{\mathbb{R}}$$ | $$\rho(X_{\mathbb{R}})$$ | $$X(\mathbb{R})$$ | # real lines |
 |-------|-------|-------|-------|
-| 内容1 | 内容2 | 内容3 |内容3 |
-| 内容4 | 内容5 | 内容6 |内容6 |
+| $$\mathbb{P}_{\mathbb{R}^2(6,0)}$$ | 7 | #7 $$\mathbb{RP}^2$$ |27 |
+| $$\mathbb{P}_{\mathbb{R}^2(4,2)}$$ | 6 | #5 $$\mathbb{RP}^2$$ |15 |
+| $$\mathbb{P}_{\mathbb{R}^2(2,4)}$$ | 5 | #3 $$\mathbb{RP}^2$$ |7 |
+| $$\mathbb{P}_{\mathbb{R}^2(0,6)}$$ | 4 | # $$\mathbb{RP}^2$$ |3 |
+| $$\mathbb{D}_{4}(1,0)}$$ | 3 | $$\mathbb{RP}^2 \scup S^2$$ |3 |
 
 
