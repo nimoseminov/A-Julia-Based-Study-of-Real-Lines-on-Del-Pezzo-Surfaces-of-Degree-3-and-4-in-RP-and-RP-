@@ -27,7 +27,7 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 | $$\mathbb{P}^2_{\mathbb{R}(5,0)}$$ | 6 | #6 $$\mathbb{RP}^2$$ |16 |
 | $$\mathbb{P}^{2}_{\mathbb{R}(3,2)}$$ | 5 | #4 $$\mathbb{RP}^2$$ |8 |
 | $$\mathbb{P}^{2}_{\mathbb{R}(1,4)}$$ | 4 | #2 $$\mathbb{RP}^2$$ |4 |
-| $$\textit{Q}^{3,1}(0,4)$$ | 3 | # $$\mathbb{RP}^2$$ |0 |
-| $$\textit{Q}^{2,2}(0,4)$$ | 4 | $$\mathbb{RP}^2 \sqcup S^2$$ |0 |
-| $$(\textit{Q}^{3,1} \times \textit{Q}^{3,0})(0,4)$$ | 4 | # $$\mathbb{RP}^2$$ |0 |
-| $$\mathbb{D}_{4}$$ | 2 | $$\mathbb{RP}^2 \sqcup S^2$$ |0 |
+| $$\textit{Q}^{3,1}(0,4)$$ | 3 | $$S^2$$ |0 |
+| $$\textit{Q}^{2,2}(0,4)$$ | 4 | $$S^2 \times S^2$$ |0 |
+| $$(\textit{Q}^{3,1} \times \textit{Q}^{3,0})(0,4)$$ | 4 | $$\varnothing$$ |0 |
+| $$\mathbb{D}_{4}$$ | 2 | $$S^2 \sqcup S^2$$ |0 |
