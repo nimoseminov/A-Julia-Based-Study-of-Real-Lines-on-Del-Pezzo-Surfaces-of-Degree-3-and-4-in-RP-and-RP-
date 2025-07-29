@@ -38,7 +38,36 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 
 ## Examples
 In the code for [*del Pezzo surface of degree 3.jl*](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4/blob/main/del%20Pezzo%20surface%20of%20degree%203.jl), I used the example polynomial:
+
 ```621*x^3+2619*x^2*y-1800*x*y^2-3040*y^3+315*x^2*z+618*x*y*z-1212*y^2*z+174*x*z^2+172*y*z^2+1152*x^2*w-24*x*y*w-4328*y^2*w+306*x*z*w-650*y*z*w+38*z^2*w+51*x*w^2-1907*y*w^2-97*z*w^2```
+
+The output is:
+
+```
+Tracking 81 paths... 100%|████████████████████████████████████████| Time: 0:00:05
+                   # paths tracked: 81
+   # non-singular solutions (real): 27 (3)
+       # singular endpoints (real): 0 (0)
+          # total solutions (real): 27 (3)
+
+ Insgesamt 3 reelle Geraden gefunden.
+
+Reelle Gerade Nr. 1:
+  Gleichung 1: -0.350317042954575*w + 0.0483254543498994*x + 0.86478485586579*y + 0.356496525849304*z = 0
+  Gleichung 2: 0.812261897004688*w + 0.239542513259883*x + 0.439258341318511*y - 0.299836796603745*z = 0
+--------
+
+Reelle Gerade Nr. 2:
+  Gleichung 1: -0.317313737336273*w - 0.764975611629068*x + 0.5481044807965*y + 0.117071703845205*z = 0
+  Gleichung 2: 0.763278109248239*w + 0.0532094551211621*x + 0.577125063336332*y - 0.285485451638394*z = 0
+--------
+
+Reelle Gerade Nr. 3:
+  Gleichung 1: -0.213808519127661*w + 0.684791593501686*x + 0.345995122285053*y + 0.604676579646351*z = 0
+  Gleichung 2: 0.808239218733016*w + 0.272505815030036*x + 0.442912421042277*y - 0.276258091941447*z = 0
+--------
+```
+There are a total of 27 non-singular solutions, of which 3 are real solutions. The equations listed below are the approximate equations of the two hyperplanes corresponding to each real line.
 
 
 ## Remark
