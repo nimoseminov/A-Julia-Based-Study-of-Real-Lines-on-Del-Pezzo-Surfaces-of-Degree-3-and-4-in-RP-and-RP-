@@ -80,3 +80,6 @@ $$
 $$
 
   $$\quad\quad$$ Here, $$|L_i \cap L_j|$$ denotes the number of intersection points between the real lines $$L_i$$ and $$L_j$$ $$(i \neq j)$$.
+
+- For further details, please refer to the [project page](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia) and the associated document: [Topological Classification (PDF)](https://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf).
+
