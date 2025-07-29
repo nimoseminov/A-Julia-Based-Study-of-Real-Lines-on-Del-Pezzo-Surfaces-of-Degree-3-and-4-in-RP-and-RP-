@@ -6,11 +6,9 @@ Implemented in the Julia programming language, this project employs the defining
 
 The following Formular ist from Francesco Russo’s paper “The antibirational involutions of the plane and the classification of real del Pezzo surfaces” (in Algebraic Geometry, de Gruyter, 2002, pp. 289–312), which can used to classify the topological structure.
 
-\begin{tabular}{|c|c|c|}
-\hline
-1 & 2 & 表头3 \\
-\hline
-内容1 & 内容2 & 内容3 \\
-内容4 & 内容5 & 内容6 \\
-\hline
-\end{tabular}
+| 表头1 | 表头2 | 表头3 |
+|-------|-------|-------|
+| 内容1 | 内容2 | 内容3 |
+| 内容4 | 内容5 | 内容6 |
+
+
