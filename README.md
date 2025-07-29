@@ -42,9 +42,6 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 
 $$
 X \text{ is an algebraic variety determined by two quadratic equations , }  X \subset \mathbb{RP}^4 , X = V(f_1, f_2), \text{where, }
-$$
-
-$$
 f_1 , f_2 \in H^0(\mathbb{P}^4, \mathcal{O}_{\mathbb{P}^4}(2)) \quad \text{or} \quad f_1 , f_2 \in \mathbb{R}[x_0, x_1, x_2, x_3, x_4]_2.
 $$
 
