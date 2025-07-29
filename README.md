@@ -13,8 +13,8 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 | $$X_{\mathbb{R}}$$ | $$\rho(X_{\mathbb{R}})$$ | $$X(\mathbb{R})$$ | # real lines |
 |-------|-------|-------|-------|
 | $$\mathbb{P}^2_{\mathbb{R}(6,0)}$$ | 7 | # $$7\mathbb{RP}^2$$ |27 |
-| $$\mathbb{P}^{2}_{\mathbb{R}(4,2)}$$ | 6 | #5 $$\mathbb{RP}^2$$ |15 |
-| $$\mathbb{P}^{2}_{\mathbb{R}(2,4)}$$ | 5 | #3 $$\mathbb{RP}^2$$ |7 |
+| $$\mathbb{P}^{2}_{\mathbb{R}(4,2)}$$ | 6 | # $$5\mathbb{RP}^2$$ |15 |
+| $$\mathbb{P}^{2}_{\mathbb{R}(2,4)}$$ | 5 | # $$3\mathbb{RP}^2$$ |7 |
 | $$\mathbb{P}^{2}_{\mathbb{R}(0,6)}$$ | 4 | # $$\mathbb{RP}^2$$ |3 |
 | $$\mathbb{D}_{4}(1,0)$$ | 3 | $$\mathbb{RP}^2 \sqcup S^2$$ |3 |
 
@@ -24,9 +24,9 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 
 | $$X_{\mathbb{R}}$$ | $$\rho(X_{\mathbb{R}})$$ | $$X(\mathbb{R})$$ | # real lines |
 |-------|-------|-------|-------|
-| $$\mathbb{P}^2_{\mathbb{R}(5,0)}$$ | 6 | #6 $$\mathbb{RP}^2$$ |16 |
-| $$\mathbb{P}^{2}_{\mathbb{R}(3,2)}$$ | 5 | #4 $$\mathbb{RP}^2$$ |8 |
-| $$\mathbb{P}^{2}_{\mathbb{R}(1,4)}$$ | 4 | #2 $$\mathbb{RP}^2$$ |4 |
+| $$\mathbb{P}^2_{\mathbb{R}(5,0)}$$ | 6 | # $$6\mathbb{RP}^2$$ |16 |
+| $$\mathbb{P}^{2}_{\mathbb{R}(3,2)}$$ | 5 | # $$4\mathbb{RP}^2$$ |8 |
+| $$\mathbb{P}^{2}_{\mathbb{R}(1,4)}$$ | 4 | # $$2\mathbb{RP}^2$$ |4 |
 | $$\textit{Q}^{3,1}(0,4)$$ | 3 | $$S^2$$ |0 |
 | $$\textit{Q}^{2,2}(0,4)$$ | 4 | $$S^2 \times S^2$$ |0 |
 | $$(\textit{Q}^{3,1} \times \textit{Q}^{3,0})(0,4)$$ | 4 | $$\varnothing$$ |0 |
