@@ -125,7 +125,7 @@ $$
 
   At this stage, the implementation only supports:
 
-  1. identifying the number of real lines
+  1. counting the number of real lines
   2. **does not** yet support outputting their approximate equations. 
 
 - For further details, please refer to the [project page](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia) and the associated document: [Topological Classification (PDF)](https://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf).
