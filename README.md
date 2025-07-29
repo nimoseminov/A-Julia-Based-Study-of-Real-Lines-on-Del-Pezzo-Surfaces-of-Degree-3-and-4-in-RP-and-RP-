@@ -64,13 +64,13 @@ $$
 \end{bmatrix}
 $$
 
-  where
+    where
 
 $$
 \mathbf{A} = (a_{ij})_{1 \leq i,j \leq r} \text{ and } r \text{ is the number of real lines }L_1, L_2, \ldots, L_r.
 $$
 
-  Specifically,
+    Specifically,
 
 $$
 \begin{cases}
@@ -79,4 +79,4 @@ a_{ij} = |L_i \cap L_j|, \quad i \neq j
 \end{cases}
 $$
 
-  Here, $$|L_i \cap L_j|$$ denotes the number of intersection points between the real lines $$L_i$$ and $$L_j$$ $$(i \neq j)$$.
+    Here, $$|L_i \cap L_j|$$ denotes the number of intersection points between the real lines $$L_i$$ and $$L_j$$ $$(i \neq j)$$.
