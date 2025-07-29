@@ -39,6 +39,7 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 ## Remark
 - We need to be careful with the definition of del Pezzo surface of degree 3 and degree 4, the del Pezzo surfaces of degree 3 are smooth cubic surfaces in $$\mathbb{RP}^3$$, but the del Pezzo surfaces are not quartic surfaces in $$\mathbb{RP}^4$$
 - The [del Pezzo surface of degree 4](https://arxiv.org/pdf/1312.6734) is a smooth surface defined by the intersection of two quadrics over an algebraically closed field k of characteristic different from 2.
+- 
 $$
 X \text{ is an algebraic variety determined by two quadratic equations , }  X \subset \mathbb{RP}^4, \quad X = V(f_1, f_2),
 $$
