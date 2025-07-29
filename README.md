@@ -129,3 +129,13 @@ $$
   2. **does not** yet support outputting their approximate equations. 
 
 - For further details, please refer to the [project page](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia) and the associated document: [Topological Classification (PDF)](https://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf).
+
+## References
+
+- [The antibirational involutions of the plane and the classification of real
+del Pezzo surfaces](https://www.degruyterbrill.com/document/doi/10.1515/9783110198072.289/html?lang=de), Francesco Russo, In \text{Algebraic geometry}, pages 289–312. de Gruyter, Berlin, 2002
+- [Julia Code for sampling real cubics](https://mathrepo.mis.mpg.de/27pAdicLines/JuliaCode.html), Max Planck Institute for Mathematics in the Sciences
+- [Positive ulrich sheaves](https://arxiv.org/pdf/2008.00201), Christoph Hanselka and Mario Kummer
+- [Del Pezzo surfaces of degree 4 and their relation to Kummer surfaces](https://ems.press/content/serial-article-files/44198), Alexei Skorobogatov
+- [Topologische Klassifikation kubischer Flächen in $\mathbb{P}^3(\mathbb{R})$ anhand von Julia-Implementierungen: 5 Fallbeispiele](https://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf), Yimu Mao
+- [Rational points on del Pezzo surafces of degree four](https://pure.rug.nl/ws/portalfiles/portal/159772709/2002.11539.pdf), Mitankin Vladimir, Salgado Cecilia
