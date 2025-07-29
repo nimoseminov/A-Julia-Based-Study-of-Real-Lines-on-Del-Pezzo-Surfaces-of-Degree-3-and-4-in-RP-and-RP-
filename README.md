@@ -137,5 +137,5 @@ del Pezzo surfaces](https://www.degruyterbrill.com/document/doi/10.1515/97831101
 - [Julia Code for sampling real cubics](https://mathrepo.mis.mpg.de/27pAdicLines/JuliaCode.html), Max Planck Institute for Mathematics in the Sciences
 - [Positive ulrich sheaves](https://arxiv.org/pdf/2008.00201), Christoph Hanselka and Mario Kummer
 - [Del Pezzo surfaces of degree 4 and their relation to Kummer surfaces](https://ems.press/content/serial-article-files/44198), Alexei Skorobogatov
-- $$[Topologische Klassifikation kubischer Flächen in \mathbb{P}^3(\mathbb{R}) anhand von Julia-Implementierungen: 5 Fallbeispiele](https://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf)$$, Yimu Mao
+- [Topologische Klassifikation kubischer Flächen in P^3(R) anhand von Julia-Implementierungen: 5 Fallbeispiele](https://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf), Yimu Mao
 - [Rational points on del Pezzo surafces of degree four](https://pure.rug.nl/ws/portalfiles/portal/159772709/2002.11539.pdf), Mitankin Vladimir, Salgado Cecilia
