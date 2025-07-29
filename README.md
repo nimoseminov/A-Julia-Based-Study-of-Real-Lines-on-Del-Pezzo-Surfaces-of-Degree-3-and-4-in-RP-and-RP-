@@ -1,4 +1,4 @@
-# A Julia Based Study of Real Lines on Del Pezzo Surfaces of Degree 3 and 4 in \mathbb{RP}³ and RP⁴
+# A Julia Based Study of Real Lines on Del Pezzo Surfaces of Degree 3 and 4 in $\mathbb{RP}$³ and RP⁴
 
 This project aims to study the number of real lines on real cubic and quartic Del Pezzo surfaces embedded in the real projective spaces RP³ and RP⁴. Building upon the results from Francesco Russo’s paper “The antibirational involutions of the plane and the classification of real del Pezzo surfaces” (in Algebraic Geometry, de Gruyter, 2002, pp. 289–312), we utilize the count of real lines to classify the corresponding topological types of Del Pezzo surfaces in RP³ and RP⁴.
 
