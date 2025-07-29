@@ -65,7 +65,7 @@ $$
 $$
 
 $$
-\text{where} \mathbf{A} = (a_{ij})_{1 \leq i,j \leq r}\) and \(r\) is the number of real lines $$L_1, L_2, \ldots, L_r$$.
+\text{where} \mathbf{A} = (a_{ij})_{1 \leq i,j \leq r} \text{and} r \text{is the number of real lines} $$L_1, L_2, \ldots, L_r$$.
 $$
 
 Specifically,
