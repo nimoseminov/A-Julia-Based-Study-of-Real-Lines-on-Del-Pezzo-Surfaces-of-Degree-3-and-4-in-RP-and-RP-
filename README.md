@@ -18,4 +18,14 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 | $$\mathbb{P}^{2}_{\mathbb{R}(0,6)}$$ | 4 | # $$\mathbb{RP}^2$$ |3 |
 | $$\mathbb{D}_{4}(1,0)$$ | 3 | $$\mathbb{RP}^2 \sqcup S^2$$ |3 |
 
+## Smooth del Pezzo surfaces of degree 4
 
+$$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3$$ and $$X_{\mathbb{R}}$$ is isomorphic to one of the following:
+
+| $$X_{\mathbb{R}}$$ | $$\rho(X_{\mathbb{R}})$$ | $$X(\mathbb{R})$$ | # real lines |
+|-------|-------|-------|-------|
+| $$\mathbb{P}^2_{\mathbb{R}(5,0)}$$ | 6 | #7 $$\mathbb{RP}^2$$ |27 |
+| $$\mathbb{P}^{2}_{\mathbb{R}(3,2)}$$ | 5 | #5 $$\mathbb{RP}^2$$ |15 |
+| $$\mathbb{P}^{2}_{\mathbb{R}(1,4)}$$ | 4 | #3 $$\mathbb{RP}^2$$ |7 |
+| $$\mathbb{P}^{2}_{\mathbb{R}(0,6)}$$ | 3 | # $$\mathbb{RP}^2$$ |3 |
+| $$\mathbb{D}_{4}(1,0)$$ | 4 | $$\mathbb{RP}^2 \sqcup S^2$$ |3 |
