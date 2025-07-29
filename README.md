@@ -6,7 +6,7 @@ This project aims to study the number of real lines on real cubic and quartic De
 
 Implemented in the Julia programming language, this project employs the defining polynomial equations of the surfaces to automatically identify and count all real lines contained therein, providing an effective computational tool for investigating the real structures of Del Pezzo surfaces in real algebraic geometry.
 
-This project is developed during my internship in TU Dresden \sqr{https://tu-dresden.de/}
+This project was initially developed during my internship at (TU Dresden)[https://tu-dresden.de/] and continued to be developed afterward. You can find my related works at (this link)[https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia] 
 
 The following formula is from Francesco Russo’s paper ``The antibirational involutions of the plane and the classification of real del Pezzo surfaces'' (in $$\textit{Algebraic Geometry}$$, de Gruyter, 2002, pp. 289--312), and can be used to classify the topological structure.
 
