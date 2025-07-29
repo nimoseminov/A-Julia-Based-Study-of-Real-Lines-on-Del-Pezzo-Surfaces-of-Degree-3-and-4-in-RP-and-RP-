@@ -10,7 +10,7 @@ The following Formular ist from Francesco Russo’s paper “The antibirational 
 
 $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3$$ and $$X_{\mathbb{R}}$$ is isomorphic to one of the following:
 
-| $$X_{\mathbb{R}}$$ | $$\rho(X_{\mathbb{R}})$$ | $$X_{\mathbb{R}}$$ | # real lines |
+| $$X_{\mathbb{R}}$$ | $$\rho(X_{\mathbb{R}})$$ | $$X(\mathbb{R})$$ | # real lines |
 |-------|-------|-------|-------|
 | 内容1 | 内容2 | 内容3 |内容3 |
 | 内容4 | 内容5 | 内容6 |内容6 |
