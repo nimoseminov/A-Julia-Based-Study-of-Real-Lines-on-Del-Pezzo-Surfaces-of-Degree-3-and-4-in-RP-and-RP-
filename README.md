@@ -24,7 +24,7 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3
 
 ## Smooth del Pezzo surfaces of degree 4
 
-$$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 3 in $$\mathbb{RP}^3$$ and $$X_{\mathbb{R}}$$ is isomorphic to one of the following:
+$$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 4 in $$\mathbb{RP}^4$$ and $$X_{\mathbb{R}}$$ is isomorphic to one of the following:
 
 | $$X_{\mathbb{R}}$$ | $$\rho(X_{\mathbb{R}})$$ | $$X(\mathbb{R})$$ | # real lines |
 |-------|-------|-------|-------|
