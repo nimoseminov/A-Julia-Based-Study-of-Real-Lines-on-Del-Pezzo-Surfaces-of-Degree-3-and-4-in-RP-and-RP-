@@ -69,7 +69,7 @@ Reelle Gerade Nr. 3:
 ```
 There are a total of 27 non-singular solutions, of which 3 are real solutions. The equations listed below are the approximate equations of the two hyperplanes corresponding to each real line.
 
-## Example from del Pezzo surfaces with Picard rank
+## Example from [del Pezzo surfaces with Picard rank](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4/blob/main/del%20Pezzo%20surface%20of%20degree%203%20with%20Picard%20rank.jl)
 
 In the code for [*del Pezzo surface of degree 3 with Picard rank.jl*](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4/blob/main/del%20Pezzo%20surface%20of%20degree%203%20with%20Picard%20rank.jl), I used the example polynomial:
 
@@ -631,6 +631,7 @@ Matrix B =
 
 Rank of matrix B = 7
 ```
+There are a total of 27 non-singular solutions, of which 27 are real solutions. The equations listed below are the approximate equations of the two hyperplanes corresponding to each real line. The Picard rank is 7 so that the topological structure is # $$7\mathbb{RP}^2$$
 
 ## Remark
 - It is important to be precise about the definitions of del Pezzo surfaces of degrees 3 and 4. Del Pezzo surfaces of degree 3 are smooth cubic surfaces in $\mathbb{RP}^3$. In contrast, smooth quartic surfaces in $\mathbb{RP}^4$ are **not** del Pezzo surfaces, but rather **K3 surfaces**, which in algebraic geometry are smooth projective surfaces with a trivial canonical bundle.
