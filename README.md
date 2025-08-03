@@ -678,6 +678,38 @@ $$
 
   $$\quad\quad$$ Here, $$|L_i \cap L_j|$$ denotes the number of intersection points between the real lines $$L_i$$ and $$L_j$$ $$(i \neq j)$$.
 
+- K3 surfaces are important two-dimensional smooth complex algebraic surfaces in algebraic geometry, possessing special geometric and topological properties. For smooth K3 surfaces defined by four variables, they can be regarded as zero loci of certain polynomials in the real projective space $$\mathbb{RP}^4$$. To study the algebraic structure of real K3 surfaces, especially the rank of their Picard group, we analyze all real lines and their corresponding hyperplane equations, examining the intersection relations among these lines.
+
+  Specifically, each real line is determined by the intersection of two hyperplanes. By solving the system of equations, we obtain all real lines and construct a matrix $$\mathbf{A}$$ encoding their intersection information. Based on this, an extended matrix $$\mathbf{B}$$ is formed to compute the Picard rank of the real K3 surface, providing a deeper understanding of its algebraic structure.
+
+  The structure of matrix $$\mathbf{B}$$ is:
+
+$$
+  \mathbf{B} = \begin{bmatrix}
+  4 & 1 & 1 & 1 \\
+  1 &   &   &   \\
+  1 &   & \mathbf{A} & \\
+  1 &   &   &  
+  \end{bmatrix}
+$$
+
+  $$\quad\quad$$ where
+
+  $$
+    \mathbf{A} = (a_{ij})_{1 \leq i,j \leq r} \text{ and } r \text{ is the number of real lines }L_1, L_2, \ldots, L_r.
+  $$
+
+  $$\quad\quad$$ Specifically,
+
+  $$
+    \begin{cases}
+    a_{ii} = -2, \\
+    a_{ij} = |L_i \cap L_j|, \quad i \neq j.
+    \end{cases}
+  $$
+
+  $$\quad\quad$$ Here, $$|L_i \cap L_j|$$ denotes the number of intersection points between the real lines $$L_i$$ and $$L_j$$ $$(i \neq j)$$.
+
 - Due to limitations in floating-point precision, it is currently **not possible** to accurately determine the intersection relations between real lines on cubic del Pezzo surfaces using numerical methods. However, the corresponding **intersection-checking code is now publicly available for reference purposes only**, as its numerical accuracy cannot be fully guaranteed.
 
   The code currently provides:
