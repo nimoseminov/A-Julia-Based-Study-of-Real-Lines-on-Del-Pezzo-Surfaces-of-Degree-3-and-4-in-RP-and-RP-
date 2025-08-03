@@ -71,6 +71,10 @@ There are a total of 27 non-singular solutions, of which 3 are real solutions. T
 
 ## Example from del Pezzo surfaces with Picard rank
 
+In the code for [*del Pezzo surface of degree 3 with Picard rank.jl*](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4/blob/main/del%20Pezzo%20surface%20of%20degree%203%20with%20Picard%20rank.jl), I used the example polynomial:
+
+```72*x^3+1152*x^2*y-96*x*y^2-1664*y^3+3*x^2*z-90*x*y*z-408*y^2*z+9*x*z^2+32*y*z^2+300*x^2*w-1368*x*y*w-3008*y^2*w-382*y*z*w+23*z^2*w-408*x*w^2-1480*y*w^2-67*z*w^2-220*w^3```
+
 The Output is:
 ```
 Total number of real lines found: 27
