@@ -36,7 +36,7 @@ $$X_{\mathbb{R}}$$ ist a smooth del Pezzo surface of degree 4 in $$\mathbb{RP}^4
 | $$(\textit{Q}^{3,1} \times \textit{Q}^{3,0})(0,4)$$ | 4 | $$\varnothing$$ |0 |
 | $$\mathbb{D}_{4}$$ | 2 | $$S^2 \sqcup S^2$$ |0 |
 
-## Examples
+## Examples from del Pezzo surface of degree 3
 In the code for [*del Pezzo surface of degree 3.jl*](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4/blob/main/del%20Pezzo%20surface%20of%20degree%203.jl), I used the example polynomial:
 
 ```621*x^3+2619*x^2*y-1800*x*y^2-3040*y^3+315*x^2*z+618*x*y*z-1212*y^2*z+174*x*z^2+172*y*z^2+1152*x^2*w-24*x*y*w-4328*y^2*w+306*x*z*w-650*y*z*w+38*z^2*w+51*x*w^2-1907*y*w^2-97*z*w^2```
@@ -115,20 +115,25 @@ $$
 
   $$\quad\quad$$ Here, $$|L_i \cap L_j|$$ denotes the number of intersection points between the real lines $$L_i$$ and $$L_j$$ $$(i \neq j)$$.
 
-- Due to limitations in floating-point precision, it is currently not possible to accurately determine the intersection relations between real lines on cubic del Pezzo surfaces using numerical methods. Therefore, the corresponding intersection-checking code is **not** publicly available. I only provide code for:
+- Due to limitations in floating-point precision, it is currently **not possible** to accurately determine the intersection relations between real lines on cubic del Pezzo surfaces using numerical methods. However, the corresponding **intersection-checking code is now publicly available for reference purposes only**, as its numerical accuracy cannot be fully guaranteed.
 
-  1. counting the number of real lines
+  The code currently provides:
+
+  1. counting the number of real lines  
   2. outputting their approximate equations  
-  (note: these equations are always approximations due to numerical errors).
+  3. checking intersections among real lines (approximate; for reference only)  
+  
+  *(Note: All equations and intersection data are approximate due to numerical errors.)*
 
   For quartic del Pezzo surfaces, the code for detecting real lines is still under active development. For the same reasons related to numerical precision, it is currently **not** feasible to reliably determine the intersection relations among these real lines. 
 
   At this stage, the implementation only supports:
 
-  1. counting the number of real lines
-  2. **does not** yet support outputting their approximate equations. 
+  1. counting the number of real lines  
+  2. **does not** yet support outputting their approximate equations.  
 
 - For further details, please refer to the [project page](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia) and the associated document: [Topological Classification (PDF)](https://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf).
+
 
 ## References
 
